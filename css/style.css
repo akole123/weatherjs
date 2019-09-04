@@ -1,0 +1,19 @@
+#addButton{
+    width: 15%;
+}
+#rainingBackGround{
+    background-image: url('images/raining.gif');
+    background-blend-mode: lighten
+}
+#cloudyBackGroud{
+    background-image: url('images/cloud.jpg')
+}
+#snowBackGround{
+    background-image: url('images/snow.jpeg')
+}
+#clearskyBackGround{
+    background-image: url("images/clearsky.jpeg")
+}
+#lightningBackGround{
+    background-image: url("images/lightning.jpeg")
+}
